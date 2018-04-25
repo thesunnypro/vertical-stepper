@@ -1,0 +1,11 @@
+<div class="stepper">
+  <div class="content" *ngFor="let list of result">
+    <div class="date">{{getDate(list.resultdate)}}</div>
+    <div class="box_container">
+    <div class="box" *ngFor="let points of list.testItemObjectsList">
+      <span class="light">{{points.itemname}}</span> <span class="dark">{{points.itemvalue}} {{points.itemunit}}</span>
+    </div>
+  </div>
+  </div>
+
+</div>

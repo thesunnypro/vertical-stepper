@@ -1,0 +1,733 @@
+[
+  {
+    "resultdate": "2018-04-08",
+    "creationtime": 1523168230000,
+    "testid": "70",
+    "testItemObjectsList": [
+      {
+        "itemid": "70",
+        "itemname": "SODIUM",
+        "itemvalue": "133.2",
+        "normalrange": "135-145",
+        "itemunit": "mmol/L",
+        "resultstatus": "Low"
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-04-04",
+    "creationtime": 1522842054000,
+    "testid": "70",
+    "testItemObjectsList": [
+      {
+        "itemid": "70",
+        "itemname": "SODIUM",
+        "itemvalue": "131.0",
+        "normalrange": "135-145",
+        "itemunit": "mmol/L",
+        "resultstatus": "Low"
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-04-03",
+    "creationtime": 1522731541000,
+    "testid": "849",
+    "testItemObjectsList": [
+      {
+        "itemid": "866",
+        "itemname": "SP. GRAVITY",
+        "itemvalue": "1.025",
+        "normalrange": "1.002-1.030",
+        "itemunit": "",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "867",
+        "itemname": "TRANSPARENCY",
+        "itemvalue": "CLEAR",
+        "normalrange": "CLEAR",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "869",
+        "itemname": "GLUCOSE",
+        "itemvalue": "NEGATIVE",
+        "normalrange": "NEGATIVE",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "870",
+        "itemname": "pH",
+        "itemvalue": "6.5",
+        "normalrange": "5-7.5",
+        "itemunit": "",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "871",
+        "itemname": "KETONES",
+        "itemvalue": "NEGATIVE",
+        "normalrange": "NEGATIVE",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "874",
+        "itemname": "UROBILINOGEN",
+        "itemvalue": "NORMAL",
+        "normalrange": "NEGATIVE",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "875",
+        "itemname": "NITRITE",
+        "itemvalue": "NEGATIVE",
+        "normalrange": "NEGATIVE",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "876",
+        "itemname": "LEUCOCYTE ESTERASE",
+        "itemvalue": "NEGATIVE",
+        "normalrange": "NEGATIVE",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "877",
+        "itemname": "PUS CELLS",
+        "itemvalue": "2-3",
+        "normalrange": "0-5",
+        "itemunit": "/hpf",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "897",
+        "itemname": "MICROSCOPIC EXAMINATION",
+        "itemvalue": "HEAD",
+        "normalrange": "",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "905",
+        "itemname": "RBC",
+        "itemvalue": "NIL",
+        "normalrange": "ABSENT",
+        "itemunit": "/hpf",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "906",
+        "itemname": "EPITHELIAL CELLS",
+        "itemvalue": "1-2",
+        "normalrange": "<10",
+        "itemunit": "/hpf",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "916",
+        "itemname": "PHYSICAL EXAMINATION",
+        "itemvalue": "HEAD",
+        "normalrange": "",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "972",
+        "itemname": "CRYSTALS",
+        "itemvalue": "ABSENT",
+        "normalrange": "ABSENT",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "973",
+        "itemname": "CASTS",
+        "itemvalue": "NIL",
+        "normalrange": "ABSENT",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "990",
+        "itemname": "COLOUR",
+        "itemvalue": "PALE YELLOW",
+        "normalrange": "PALE YELLOW",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "991",
+        "itemname": "BIOCHEMICAL EXAMINATION",
+        "itemvalue": "HEAD",
+        "normalrange": null,
+        "itemunit": null,
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "992",
+        "itemname": "URINE PROTEIN",
+        "itemvalue": "NEGATIVE",
+        "normalrange": "NEGATIVE",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "993",
+        "itemname": "URINE BILIRUBIN",
+        "itemvalue": "NEGATIVE",
+        "normalrange": "NEGATIVE",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "994",
+        "itemname": "BLOOD",
+        "itemvalue": "NEGATIVE",
+        "normalrange": "NEGATIVE",
+        "itemunit": "",
+        "resultstatus": ""
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-04-01",
+    "creationtime": 1522596627000,
+    "testid": "70",
+    "testItemObjectsList": [
+      {
+        "itemid": "70",
+        "itemname": "SODIUM",
+        "itemvalue": "130.0",
+        "normalrange": "135-145",
+        "itemunit": "mmol/L",
+        "resultstatus": "Low"
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-03-31",
+    "creationtime": 1522488148000,
+    "testid": "867",
+    "testItemObjectsList": [
+      {
+        "itemid": "1009",
+        "itemname": "ABSOLUTE LEUCOCYTE COUNT",
+        "itemvalue": "HEAD",
+        "normalrange": null,
+        "itemunit": null,
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "1010",
+        "itemname": "EOSINOPHILS",
+        "itemvalue": "356",
+        "normalrange": "200-1000",
+        "itemunit": "Cells/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "1011",
+        "itemname": "MONOCYTES",
+        "itemvalue": "356",
+        "normalrange": "300-1000",
+        "itemunit": "Cells/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "1012",
+        "itemname": "BASOPHILS",
+        "itemvalue": "00",
+        "normalrange": "20-100",
+        "itemunit": "Cells/cu.mm",
+        "resultstatus": "Low"
+      },
+      {
+        "itemid": "126",
+        "itemname": "MCH",
+        "itemvalue": "32.3",
+        "normalrange": "30-36",
+        "itemunit": "pg",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "127",
+        "itemname": "MCHC",
+        "itemvalue": "35.8",
+        "normalrange": "29-37",
+        "itemunit": "g/dL",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "128",
+        "itemname": "MCV",
+        "itemvalue": "90",
+        "normalrange": "92-116",
+        "itemunit": "fL",
+        "resultstatus": "Low"
+      },
+      {
+        "itemid": "13",
+        "itemname": "RBC COUNT",
+        "itemvalue": "4.79",
+        "normalrange": "3.0-5.4",
+        "itemunit": "Million/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "146",
+        "itemname": "R.D.W",
+        "itemvalue": "16.4",
+        "normalrange": "11.6-14",
+        "itemunit": "%",
+        "resultstatus": "High"
+      },
+      {
+        "itemid": "15",
+        "itemname": "DIFFERENTIAL LEUCOCYTIC COUNT (DLC)",
+        "itemvalue": "HEAD",
+        "normalrange": null,
+        "itemunit": null,
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "29",
+        "itemname": "TOTAL LEUCOCYTE COUNT (TLC)",
+        "itemvalue": "17800",
+        "normalrange": "5000-19000",
+        "itemunit": "cells/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "33",
+        "itemname": "PLATELET COUNT",
+        "itemvalue": "370000",
+        "normalrange": "200000-500000",
+        "itemunit": "cells/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "63",
+        "itemname": "PCV",
+        "itemvalue": "43.1",
+        "normalrange": "33-53",
+        "itemunit": "%",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "852",
+        "itemname": "BANDS",
+        "itemvalue": "03",
+        "normalrange": "",
+        "itemunit": "%",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "854",
+        "itemname": "HAEMOGLOBIN",
+        "itemvalue": "15.4",
+        "normalrange": "11.5-16.5",
+        "itemunit": "g/dL",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "859",
+        "itemname": "NEUTROPHILS",
+        "itemvalue": "6052",
+        "normalrange": "3000-9000",
+        "itemunit": "Cells/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "860",
+        "itemname": "LYMPHOCYTES",
+        "itemvalue": "10502",
+        "normalrange": "3000-16000",
+        "itemunit": "Cells/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "861",
+        "itemname": "EOSINOPHILS",
+        "itemvalue": "02",
+        "normalrange": "1-5",
+        "itemunit": "%",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "862",
+        "itemname": "BASOPHILS",
+        "itemvalue": "00",
+        "normalrange": "<1-2",
+        "itemunit": "%",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "863",
+        "itemname": "MONOCYTES",
+        "itemvalue": "02",
+        "normalrange": "2-6",
+        "itemunit": "%",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "952",
+        "itemname": "NEUTROPHILS",
+        "itemvalue": "34",
+        "normalrange": "47-60",
+        "itemunit": "%",
+        "resultstatus": "Low"
+      },
+      {
+        "itemid": "953",
+        "itemname": "LYMPHOCYTES",
+        "itemvalue": "59",
+        "normalrange": "60-84",
+        "itemunit": "%",
+        "resultstatus": "Low"
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-03-31",
+    "creationtime": 1522488124000,
+    "testid": "151",
+    "testItemObjectsList": [
+      {
+        "itemid": "151",
+        "itemname": "C-REACTIVE PROTEIN  CRP (QUANTITATIVE)",
+        "itemvalue": "< 3.0",
+        "normalrange": "< 5",
+        "itemunit": "mg/L",
+        "resultstatus": "Normal"
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-03-31",
+    "creationtime": 1522488120000,
+    "testid": "69",
+    "testItemObjectsList": [
+      {
+        "itemid": "69",
+        "itemname": "POTASSIUM",
+        "itemvalue": "5.3",
+        "normalrange": "3.5-5.1",
+        "itemunit": "mmol/L",
+        "resultstatus": "High"
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-03-31",
+    "creationtime": 1522488120000,
+    "testid": "70",
+    "testItemObjectsList": [
+      {
+        "itemid": "70",
+        "itemname": "SODIUM",
+        "itemvalue": "127.5",
+        "normalrange": "135-145",
+        "itemunit": "mmol/L",
+        "resultstatus": "Low"
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-03-13",
+    "creationtime": 1520935303000,
+    "testid": "50",
+    "testItemObjectsList": [
+      {
+        "itemid": "50",
+        "itemname": "CALCIUM",
+        "itemvalue": "6.9",
+        "normalrange": "8.4-10.2",
+        "itemunit": "mg/dL",
+        "resultstatus": "Low"
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-03-13",
+    "creationtime": 1520935303000,
+    "testid": "861",
+    "testItemObjectsList": [
+      {
+        "itemid": "140",
+        "itemname": "BILIRUBIN (INDIRECT)",
+        "itemvalue": "4",
+        "normalrange": "0.0-1.1",
+        "itemunit": "mg/dL",
+        "resultstatus": "High"
+      },
+      {
+        "itemid": "32",
+        "itemname": "BILIRUBIN CONJUGATED (DIRECT)",
+        "itemvalue": "1.2",
+        "normalrange": "0.1-0.4",
+        "itemunit": "mg/dL",
+        "resultstatus": "High"
+      },
+      {
+        "itemid": "35",
+        "itemname": "BILIRUBIN, TOTAL",
+        "itemvalue": "5.2",
+        "normalrange": "0.1-1.2",
+        "itemunit": "mg/dL",
+        "resultstatus": "High"
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-03-13",
+    "creationtime": 1520914159000,
+    "testid": "25",
+    "testItemObjectsList": [
+      {
+        "itemid": "1338",
+        "itemname": "Forward Grouping",
+        "itemvalue": "HEAD",
+        "normalrange": null,
+        "itemunit": null,
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "1339",
+        "itemname": "Anti A",
+        "itemvalue": "-",
+        "normalrange": null,
+        "itemunit": null,
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "1340",
+        "itemname": "Anti B",
+        "itemvalue": "-",
+        "normalrange": null,
+        "itemunit": null,
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "1341",
+        "itemname": "Anti D",
+        "itemvalue": "+",
+        "normalrange": null,
+        "itemunit": null,
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "933",
+        "itemname": "BLOOD GROUP TYPE",
+        "itemvalue": "O",
+        "normalrange": "",
+        "itemunit": "",
+        "resultstatus": ""
+      },
+      {
+        "itemid": "934",
+        "itemname": "Rh TYPE",
+        "itemvalue": "POSITIVE",
+        "normalrange": "",
+        "itemunit": "",
+        "resultstatus": ""
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-03-13",
+    "creationtime": 1520914159000,
+    "testid": "867",
+    "testItemObjectsList": [
+      {
+        "itemid": "1009",
+        "itemname": "ABSOLUTE LEUCOCYTE COUNT",
+        "itemvalue": "HEAD",
+        "normalrange": null,
+        "itemunit": null,
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "1010",
+        "itemname": "EOSINOPHILS",
+        "itemvalue": "475",
+        "normalrange": "100-1000",
+        "itemunit": "Cells/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "1011",
+        "itemname": "MONOCYTES",
+        "itemvalue": "1425",
+        "normalrange": "500-2000",
+        "itemunit": "Cells/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "1012",
+        "itemname": "BASOPHILS",
+        "itemvalue": "00",
+        "normalrange": "20-100",
+        "itemunit": "Cells/cu.mm",
+        "resultstatus": "Low"
+      },
+      {
+        "itemid": "126",
+        "itemname": "MCH",
+        "itemvalue": "33.1",
+        "normalrange": "31-37",
+        "itemunit": "pg",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "127",
+        "itemname": "MCHC",
+        "itemvalue": "33.4",
+        "normalrange": "30-36",
+        "itemunit": "g/dL",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "128",
+        "itemname": "MCV",
+        "itemvalue": "99.0",
+        "normalrange": "100-120",
+        "itemunit": "fL",
+        "resultstatus": "Low"
+      },
+      {
+        "itemid": "13",
+        "itemname": "RBC COUNT",
+        "itemvalue": "5.5",
+        "normalrange": "5.0-7.0",
+        "itemunit": "Million/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "146",
+        "itemname": "R.D.W",
+        "itemvalue": "18.7",
+        "normalrange": "11.6-14",
+        "itemunit": "%",
+        "resultstatus": "High"
+      },
+      {
+        "itemid": "15",
+        "itemname": "DIFFERENTIAL LEUCOCYTIC COUNT (DLC)",
+        "itemvalue": "HEAD",
+        "normalrange": null,
+        "itemunit": null,
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "29",
+        "itemname": "TOTAL LEUCOCYTE COUNT (TLC)",
+        "itemvalue": "47500",
+        "normalrange": "10000-26000",
+        "itemunit": "cells/cu.mm",
+        "resultstatus": "High"
+      },
+      {
+        "itemid": "33",
+        "itemname": "PLATELET COUNT",
+        "itemvalue": "229000",
+        "normalrange": "100000-450000",
+        "itemunit": "cells/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "63",
+        "itemname": "PCV",
+        "itemvalue": "54.5",
+        "normalrange": "45-75",
+        "itemunit": "%",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "854",
+        "itemname": "HAEMOGLOBIN",
+        "itemvalue": "18.2",
+        "normalrange": "14-22",
+        "itemunit": "g/dL",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "859",
+        "itemname": "NEUTROPHILS",
+        "itemvalue": "38000",
+        "normalrange": "4000-14000",
+        "itemunit": "Cells/cu.mm",
+        "resultstatus": "High"
+      },
+      {
+        "itemid": "860",
+        "itemname": "LYMPHOCYTES",
+        "itemvalue": "7600",
+        "normalrange": "3000-8000",
+        "itemunit": "Cells/cu.mm",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "861",
+        "itemname": "EOSINOPHILS",
+        "itemvalue": "01",
+        "normalrange": "1-4",
+        "itemunit": "%",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "862",
+        "itemname": "BASOPHILS",
+        "itemvalue": "00",
+        "normalrange": "<1-2",
+        "itemunit": "%",
+        "resultstatus": "Normal"
+      },
+      {
+        "itemid": "863",
+        "itemname": "MONOCYTES",
+        "itemvalue": "03",
+        "normalrange": "5-8",
+        "itemunit": "%",
+        "resultstatus": "Low"
+      },
+      {
+        "itemid": "952",
+        "itemname": "NEUTROPHILS",
+        "itemvalue": "80",
+        "normalrange": "40-54",
+        "itemunit": "%",
+        "resultstatus": "High"
+      },
+      {
+        "itemid": "953",
+        "itemname": "LYMPHOCYTES",
+        "itemvalue": "16",
+        "normalrange": "30-31",
+        "itemunit": "%",
+        "resultstatus": "Low"
+      }
+    ]
+  },
+  {
+    "resultdate": "2018-03-12",
+    "creationtime": 1520874184000,
+    "testid": "151",
+    "testItemObjectsList": [
+      {
+        "itemid": "151",
+        "itemname": "C-REACTIVE PROTEIN  CRP (QUANTITATIVE)",
+        "itemvalue": "<3.0",
+        "normalrange": "<10.0",
+        "itemunit": "mg/L",
+        "resultstatus": "Normal"
+      }
+    ]
+  }
+]
